@@ -1,0 +1,8 @@
+name: q_a_eval_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10.10
+  - pip
+  - pip:
+    - -r requirements.txt
