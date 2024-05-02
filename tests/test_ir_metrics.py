@@ -1,4 +1,4 @@
-from information_retrieval_metrics import InformationRetrievalMetrics
+from modules.information_retrieval_metrics import InformationRetrievalMetrics
 import pandas as pd
 
 
