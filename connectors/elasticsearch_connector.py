@@ -83,6 +83,30 @@ class WatsonDiscoveryV2Connector:
                 output.append(f"THERE IS NO {key} FOR THIS DATA")
 
         return output
+    
+    def get_result_metadata(self):
+        """
+        A function that grabs the result metadata from the results of the query response.
+        :return: List[result metadata]
+        """
+        result_metadata = self.__get_kv_from_result(key='result_metadata')
+        return result_metadata
+    
+    def __get_kv_from_result_metadata(self, key: str):
+        # get all results
+        results_metadata = self.get_result_metadata()
+
+        # store output of the values for the specified key.
+        output = []
+
+        for i in range(0, len(results_metadata)):
+            try:
+                output.append(results_metadata[i][key])
+            except KeyError:
+                output.append(f"THERE IS NO {key} IN RESULTS METADATA")
+        
+        return output
+
 
     def get_document_ids(self):
         """
@@ -92,13 +116,22 @@ class WatsonDiscoveryV2Connector:
         document_ids = self.__get_kv_from_result(key='document_id')
         return document_ids
 
-    def get_result_metadata(self):
+
+    def get_result_confidence(self):
         """
-        A function that grabs the result metadata from the results of the query response.
+        A function that grabs the confidence scores from result metadata of the query response result.
         :return: List[result metadata]
         """
-        result_metadata = self.__get_kv_from_result(key='result_metadata')
-        return result_metadata
+        confidence_score = self.__get_kv_from_result_metadata(key='confidence')
+        return confidence_score
+    
+    def get_title(self):
+        """
+        A function that grabs the subtitles from the results of the query response.
+        :return: List[subtitles]
+        """
+        titles = self.__get_kv_from_result(key='title')
+        return titles
 
     def get_subtitle(self):
         """

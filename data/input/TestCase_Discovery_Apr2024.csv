@@ -1,4 +1,4 @@
-User Input,keep_faq_for_test,Correct FAQ ,Actual FAQ returned (Top result),Correct FAQ in top 3,Associated URL
+User Input,keep_faq_for_test,Correct FAQ,Actual FAQ returned (Top result),Correct FAQ in top 3,Associated URL
 Using a dual sim card device,Y,How do I manage my dual-SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1464047382/How-do-I-manage-my-dual-SIM-phone.htm
 How to manage my dual sim device,Y,How do I manage my dual-SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1464047382/How-do-I-manage-my-dual-SIM-phone.htm
 Managing my dual sim phone,Y,How do I manage my dual-SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1464047382/How-do-I-manage-my-dual-SIM-phone.htm
@@ -13,11 +13,11 @@ Managing a dual sim device,Y,How do I manage my dual-SIM phone?,,,https://suppor
 How does a dual sim phone work,Y,How do I manage my dual-SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1464047382/How-do-I-manage-my-dual-SIM-phone.htm
 My dual sim won't work,Y,How do I manage my dual-SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1464047382/How-do-I-manage-my-dual-SIM-phone.htm
 Not sure how dual sim works on my new phone,Y,How do I manage my dual-SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1464047382/How-do-I-manage-my-dual-SIM-phone.htm
-,N,What’s included in a Big Value Bundle?,Assistant journey ,,
-,N,What happens when I pay my Device Plan off in full?,Assistant journey ,,
-,N,How do I remove my Big Value Bundle?,Assistant journey ,,
-,N,How do I know what I’m controlling on my account?,Assistant journey ,,
-,N,How can I buy a Big Value Bundle?,Assistant journey ,,
+,N,Whatï¿½s included in a Big Value Bundle?,,,
+,N,What happens when I pay my Device Plan off in full?,,,
+,N,How do I remove my Big Value Bundle?,,,
+,N,How do I know what Iï¿½m controlling on my account?,,,
+,N,How can I buy a Big Value Bundle?,,,
 Can I speak to someone about fraud,Y,I think I've been a victim of fraud,,,https://support.vodafone.co.uk/Account/Security-privacy/1456918702/I-think-I-ve-been-a-victim-of-fraud.htm
 Someone is using my personal details to set up an account with vodafone fraudulently,Y,I think I've been a victim of fraud,,,https://support.vodafone.co.uk/Account/Security-privacy/1456918702/I-think-I-ve-been-a-victim-of-fraud.htm
 I have been a victim of fraud,Y,I think I've been a victim of fraud,,,https://support.vodafone.co.uk/Account/Security-privacy/1456918702/I-think-I-ve-been-a-victim-of-fraud.htm
@@ -33,22 +33,22 @@ Suspected hacking or fraud on my account,Y,I think I've been a victim of fraud,,
 I think I may have been frauded,Y,I think I've been a victim of fraud,,,https://support.vodafone.co.uk/Account/Security-privacy/1456918702/I-think-I-ve-been-a-victim-of-fraud.htm
 Can you give me the number for your fraud team,Y,I think I've been a victim of fraud,,,https://support.vodafone.co.uk/Account/Security-privacy/1456918702/I-think-I-ve-been-a-victim-of-fraud.htm
 Please check my account for signs of fraud,Y,I think I've been a victim of fraud,,,https://support.vodafone.co.uk/Account/Security-privacy/1456918702/I-think-I-ve-been-a-victim-of-fraud.htm
-,N,How do I get Vodafone Insurance?,Assistant journey ,,
-Wifi won't connect to my ultra hub,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-I can't connect my device to the ultra hub oer wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Why wont any of my devices connect to the ultra hub through wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-My ultra hub isn't connecting to my phone on wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Non of my devices will connect to the ultra hub using wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Ultra hub won't connect to any phones in the house on the wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Why isn't my phone connecting to the ultra hub through wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-We aren't able to connect any devices to the ultra hub when on wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-I've tried connecting wifi to the ultra hub but it's not working,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Devices won't connect to the ultra hub via wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-I'm not able to connect my phone to the ultra hub through wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-I can't seem to connect my phone via wifi to the ultra hub,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Devices aren't connecting to the ultra hub over wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Can you check why my phone won't connect to my ultra hub through wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
-Devices can't connect to the ultra hub while i'm on the wifi,N,My devices can’t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+,N,How do I get Vodafone Insurance?,,,
+Wifi won't connect to my ultra hub,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+I can't connect my device to the ultra hub oer wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Why wont any of my devices connect to the ultra hub through wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+My ultra hub isn't connecting to my phone on wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Non of my devices will connect to the ultra hub using wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Ultra hub won't connect to any phones in the house on the wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Why isn't my phone connecting to the ultra hub through wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+We aren't able to connect any devices to the ultra hub when on wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+I've tried connecting wifi to the ultra hub but it's not working,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Devices won't connect to the ultra hub via wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+I'm not able to connect my phone to the ultra hub through wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+I can't seem to connect my phone via wifi to the ultra hub,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Devices aren't connecting to the ultra hub over wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Can you check why my phone won't connect to my ultra hub through wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
+Devices can't connect to the ultra hub while i'm on the wifi,N,My devices canï¿½t connect to my Ultra Hub through WiFi,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1929353252/My-devices-can-t-connect-to-my-Vodafone-Hub-through-WiFi.htm
 How much does a repair cost,Y,How much will it cost to repair my device?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014552/How-much-will-it-cost-to-repair-my-device.htm
 Can you tell me how much it will cost to repair my phone,Y,How much will it cost to repair my device?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014552/How-much-will-it-cost-to-repair-my-device.htm
 What's the cost of repairing a device,Y,How much will it cost to repair my device?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014552/How-much-will-it-cost-to-repair-my-device.htm
@@ -64,8 +64,8 @@ Do you charge me to send my phone off for repair ,Y,How much will it cost to rep
 I want to know how much you're going to charge me to repair my device,Y,How much will it cost to repair my device?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014552/How-much-will-it-cost-to-repair-my-device.htm
 How much will you be adding to my bill to repair my phone,Y,How much will it cost to repair my device?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014552/How-much-will-it-cost-to-repair-my-device.htm
 What's the cost of sending my phone off for repair,Y,How much will it cost to repair my device?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014552/How-much-will-it-cost-to-repair-my-device.htm
-,N,What is a replacement SIM and how long does it take to activate?,Assistant journey ,,
-,N,"How do I change my name, title or date of birth?",Assistant journey ,,
+,N,What is a replacement SIM and how long does it take to activate?,,,
+,N,"How do I change my name, title or date of birth?",,,
 I have a question about my insurance,Y,I have a question about my insurance,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015252/I-have-a-question-about-my-insurance.htm
 Who can help with questions about insurance,Y,I have a question about my insurance,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015252/I-have-a-question-about-my-insurance.htm
 Can I please speak to someone to help with a question about insurance,Y,I have a question about my insurance,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015252/I-have-a-question-about-my-insurance.htm
@@ -89,8 +89,8 @@ How can I check if it was vodafone calling me,Y,Is it Vodafone calling?,,,https:
 Change my marketing preferences ,Y,Is it Vodafone calling?,,,https://support.vodafone.co.uk/Account/Security-privacy/1447555442/Is-it-Vodafone-calling.htm
 I don't want vodafone to call me ,Y,Is it Vodafone calling?,,,https://support.vodafone.co.uk/Account/Security-privacy/1447555442/Is-it-Vodafone-calling.htm
 Check my marketing preferences ,Y,Is it Vodafone calling?,,,https://support.vodafone.co.uk/Account/Security-privacy/1447555442/Is-it-Vodafone-calling.htm
-,N,How much will it cost to use my phone abroad?,Assistant journey ,,
-,N,How do I manage my spend limits and data caps?,Assistant journey ,,
+,N,How much will it cost to use my phone abroad?,,,
+,N,How do I manage my spend limits and data caps?,,,
 How do I set up a dual sim phone,Y,How do I set up a Dual SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154902/How-do-I-set-up-a-Dual-SIM-phone.htm
 I want to set up dual sim on my phone,Y,How do I set up a Dual SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154902/How-do-I-set-up-a-Dual-SIM-phone.htm
 Setting up a dual sim phone and I need help,Y,How do I set up a Dual SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154902/How-do-I-set-up-a-Dual-SIM-phone.htm
@@ -100,7 +100,7 @@ I have a duel sim phone and i'm unsure how to use it ,Y,How do I set up a Dual S
 Help me set up a dual sim phone,Y,How do I set up a Dual SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154902/How-do-I-set-up-a-Dual-SIM-phone.htm
 Can someone please show me how I set up a dual sim phone,Y,How do I set up a Dual SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154902/How-do-I-set-up-a-Dual-SIM-phone.htm
 I'm having trouble setting up my dual sim phone,Y,How do I set up a Dual SIM phone?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154902/How-do-I-set-up-a-Dual-SIM-phone.htm
-,N,How much does it cost to call abroad from the UK?,Assistant journey ,,
+,N,How much does it cost to call abroad from the UK?,,,
 How do I check my voicemail,Y,How do I check my voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047822/How-do-I-check-my-voicemail.htm
 What number do I dial to check my voicemail,Y,How do I check my voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047822/How-do-I-check-my-voicemail.htm
 Can you tell me how to check my voicemail,Y,How do I check my voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047822/How-do-I-check-my-voicemail.htm
@@ -112,8 +112,8 @@ Why can't I check my voicemail,Y,How do I check my voicemail?,,,https://support.
 Can you give me the steps I need to take to check my voicemail,Y,How do I check my voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047822/How-do-I-check-my-voicemail.htm
 Help me check my voicemail,Y,How do I check my voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047822/How-do-I-check-my-voicemail.htm
 Can someone show me how to listen to a voicemail,Y,How do I check my voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047822/How-do-I-check-my-voicemail.htm
-,N,How is Vodafone broadband installed?,I think this will conflict with HBB assistant journeys ,,
-,N,My WiFi speed is slower than I expected,Assistant journey ,,
+,N,How is Vodafone broadband installed?,,,
+,N,My WiFi speed is slower than I expected,,,
 How do I factory reset my Vodafone router?,Y,How do I factory reset my Vodafone router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643206972/How-do-I-factory-reset-my-Vodafone-router.htm
 Instructions to factory reset my router,Y,How do I factory reset my Vodafone router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643206972/How-do-I-factory-reset-my-Vodafone-router.htm
 How do I reset my router,Y,How do I factory reset my Vodafone router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643206972/How-do-I-factory-reset-my-Vodafone-router.htm
@@ -123,7 +123,7 @@ Do you know how I reset a vodafone router back to factory settings,Y,How do I fa
 I could do with some help resetting my vodafone router,Y,How do I factory reset my Vodafone router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643206972/How-do-I-factory-reset-my-Vodafone-router.htm
 Steps for resetting a vodafone router to factory settings,Y,How do I factory reset my Vodafone router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643206972/How-do-I-factory-reset-my-Vodafone-router.htm
 Please help how do I factory rest my vodafone router ,Y,How do I factory reset my Vodafone router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643206972/How-do-I-factory-reset-my-Vodafone-router.htm
-,N,Why hasn’t my Pay as you go Plus plan Auto-Renewed? ,Assistant journey ,,
+,N,Why hasnï¿½t my Pay as you go Plus plan Auto-Renewed? ,,,
 What are veryme rewards,N,What's VeryMe Rewards?,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
 Tell me more about vodafone veryme rewards,N,What's VeryMe Rewards?,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
 What's the veryme rewards scheme,N,What's VeryMe Rewards?,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
@@ -150,8 +150,8 @@ I don't understand how to use the Broadband Boost feature,Y,What is the Vodafone
 Can I get more information about the vodafone Broadband Boost feature please,Y,What is the Vodafone Broadband Boost feature and how do I use it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003612/What-is-the-Vodafone-Broadband-Boost-feature-and-how-do-I-use-it.htm
 What is Broadband Boost and how does it work,Y,What is the Vodafone Broadband Boost feature and how do I use it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003612/What-is-the-Vodafone-Broadband-Boost-feature-and-how-do-I-use-it.htm
 How does the Broadband Boost feature work,Y,What is the Vodafone Broadband Boost feature and how do I use it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003612/What-is-the-Vodafone-Broadband-Boost-feature-and-how-do-I-use-it.htm
-,N,How do I set up Super WiFi Boosters?,Assistant journey ,,
-,N,How do I change my marketing preferences?,Assistant journey ,,
+,N,How do I set up Super WiFi Boosters?,,,
+,N,How do I change my marketing preferences?,,,
 How do I cancel my Secure Net subscription?,Y,How do I cancel my Secure Net subscription?,,,https://support.vodafone.co.uk/Account/Security-privacy/1464064512/How-do-I-cancel-my-Secure-Net-subscription.htm
 Cancel secure net,Y,How do I cancel my Secure Net subscription?,,,https://support.vodafone.co.uk/Account/Security-privacy/1464064512/How-do-I-cancel-my-Secure-Net-subscription.htm
 I want to cancel secure net,Y,How do I cancel my Secure Net subscription?,,,https://support.vodafone.co.uk/Account/Security-privacy/1464064512/How-do-I-cancel-my-Secure-Net-subscription.htm
@@ -178,8 +178,8 @@ how to I top up credit on my number,Y,How can I top up my phone or another numbe
 how do I top up credit if it's on someone elses number,Y,How can I top up my phone or another number?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Topping-up/1479617992/How-can-I-top-up-my-phone-or-another-number.htm
 I need to add credit to my phone number,Y,How can I top up my phone or another number?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Topping-up/1479617992/How-can-I-top-up-my-phone-or-another-number.htm
 Topping up my phone and another number,Y,How can I top up my phone or another number?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Topping-up/1479617992/How-can-I-top-up-my-phone-or-another-number.htm
-,N,How do I make a complaint?,Assistant journey ,,
-,N,How can I check my data allowance?,Assistant journey ,,
+,N,How do I make a complaint?,,,
+,N,How can I check my data allowance?,,,
 Where's my nearest store,Y,Where's my nearest store? ,,,https://support.vodafone.co.uk/Account/Contacting-Vodafone/1720879022/Where-s-my-nearest-store.htm
 Which store is nearest to me,Y,Where's my nearest store? ,,,https://support.vodafone.co.uk/Account/Contacting-Vodafone/1720879022/Where-s-my-nearest-store.htm
 Where will I find my nearest store,Y,Where's my nearest store? ,,,https://support.vodafone.co.uk/Account/Contacting-Vodafone/1720879022/Where-s-my-nearest-store.htm
@@ -193,9 +193,9 @@ where is my nearest vodafone store,Y,Where's my nearest store? ,,,https://suppor
 how do I locate my nearest vodafone store,Y,Where's my nearest store? ,,,https://support.vodafone.co.uk/Account/Contacting-Vodafone/1720879022/Where-s-my-nearest-store.htm
 what's the location of the closest vodafone store to me ,Y,Where's my nearest store? ,,,https://support.vodafone.co.uk/Account/Contacting-Vodafone/1720879022/Where-s-my-nearest-store.htm
 help me find the closest store to where I live,Y,Where's my nearest store? ,,,https://support.vodafone.co.uk/Account/Contacting-Vodafone/1720879022/Where-s-my-nearest-store.htm
-,N,"How do I renew, pause or cancel my Pay as you go Plus plan? ",Check assistant as will conflict with payg+ journeys there,,
-,N,How can I check my plan details?,Assistant journey ,,
-,N,Can I transfer my account to someone else?,Assistant journey ,,
+,N,"How do I renew, pause or cancel my Pay as you go Plus plan? ",,,
+,N,How can I check my plan details?,,,
+,N,Can I transfer my account to someone else?,,,
 How do I claim on my insurance,Y,How do I make a claim on my insurance?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015112/How-do-I-make-a-claim-on-my-insurance.htm
 Claiming on my insurance,Y,How do I make a claim on my insurance?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015112/How-do-I-make-a-claim-on-my-insurance.htm
 I want to make a claim on my insurance,Y,How do I make a claim on my insurance?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015112/How-do-I-make-a-claim-on-my-insurance.htm
@@ -209,7 +209,7 @@ I need to make an insurance claim,Y,How do I make a claim on my insurance?,,,htt
 I need to make an insurance claim for my mobile,Y,How do I make a claim on my insurance?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015112/How-do-I-make-a-claim-on-my-insurance.htm
 "
 I would like to make a insurance claim",Y,How do I make a claim on my insurance?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015112/How-do-I-make-a-claim-on-my-insurance.htm
-,N,How do I find out about Vodafone Essentials Broadband?,Assistant journey ,,
+,N,How do I find out about Vodafone Essentials Broadband?,,,
 What happens if I delete my eSIM,Y,What happens if I delete my eSIM?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154742/What-happens-if-I-delete-my-eSIM.htm
 What if I delete my esim by accident ,Y,What happens if I delete my eSIM?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154742/What-happens-if-I-delete-my-eSIM.htm
 What would happen if I delete my esim,Y,What happens if I delete my eSIM?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154742/What-happens-if-I-delete-my-eSIM.htm
@@ -223,7 +223,7 @@ Explain what would happen if my eSIM was deleted ,Y,What happens if I delete my 
 Help with eSIM being deleted ,Y,What happens if I delete my eSIM?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154742/What-happens-if-I-delete-my-eSIM.htm
 What happens if I delete an eSIM from my apple watch,Y,What happens if I delete my eSIM?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154742/What-happens-if-I-delete-my-eSIM.htm
 Would deleting an eSIM break my watch,Y,What happens if I delete my eSIM?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526154742/What-happens-if-I-delete-my-eSIM.htm
-,N,"How much do calls, texts and data cost?",Assistant journey ,,
+,N,"How much do calls, texts and data cost?",,,
 I want to cancel the insurance for my device,Y,I want to cancel the insurance for my device,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015322/I-want-to-cancel-the-insurance-for-my-device.htm
 I want to cancel my device insurance ,Y,I want to cancel the insurance for my device,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015322/I-want-to-cancel-the-insurance-for-my-device.htm
 How do I cancel my insurance ,Y,I want to cancel the insurance for my device,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015322/I-want-to-cancel-the-insurance-for-my-device.htm
@@ -236,9 +236,9 @@ Cancel my insurance ,Y,I want to cancel the insurance for my device,,,https://su
 I need to cancel insurance,Y,I want to cancel the insurance for my device,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015322/I-want-to-cancel-the-insurance-for-my-device.htm
 How do I cancel insurance ,Y,I want to cancel the insurance for my device,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015322/I-want-to-cancel-the-insurance-for-my-device.htm
 Can i cancel insurance cover,Y,I want to cancel the insurance for my device,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464015322/I-want-to-cancel-the-insurance-for-my-device.htm
-,N,How do I top up?,Remove,,
-,N,Who are the WiFi Xperts?,Remove,,
-Who can get VeryMe Rewards,Y,Who can get VeryMe Rewards?,Not called VeryMe any longer ,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
+,N,How do I top up?,,,
+,N,Who are the WiFi Xperts?,,,
+Who can get VeryMe Rewards,Y,Who can get VeryMe Rewards?,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
 Can I get VeryMe rewards ,Y,Who can get VeryMe Rewards?,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
 Whos able to get VeryMe rewards,Y,Who can get VeryMe Rewards?,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
 Who is eligable for VeryMe,Y,Who can get VeryMe Rewards?,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888402/Who-can-get-VeryMe-Rewards.htm
@@ -287,9 +287,9 @@ What devices are connected to my WiFi,Y,How do I check the devices connected to 
 Whats connected to my WiFi ,Y,How do I check the devices connected to my WiFi?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1733851312/How-do-I-check-the-devices-connected-to-my-WiFi.htm
 Where can I check whats on my WiFi,Y,How do I check the devices connected to my WiFi?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1733851312/How-do-I-check-the-devices-connected-to-my-WiFi.htm
 Checking whats connected to my WiFi currently ,Y,How do I check the devices connected to my WiFi?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1733851312/How-do-I-check-the-devices-connected-to-my-WiFi.htm
-,N,What is Broadband Back-up?,Assistant journey ,,
-,Y,"My phone is blocked, how do I get it working again?",Assistant journey (though it is hitting discovery),,https://support.vodafone.co.uk/Phones-devices/Lost-stolen/1464014382/My-phone-is-blocked-how-do-I-get-it-working-again.htm
-,N,Can I use eSIM when travelling abroad or visiting the UK? ,Assistant journey ,,
+,N,What is Broadband Back-up?,,,
+,N,"My phone is blocked, how do I get it working again?",,,https://support.vodafone.co.uk/Phones-devices/Lost-stolen/1464014382/My-phone-is-blocked-how-do-I-get-it-working-again.htm
+,N,Can I use eSIM when travelling abroad or visiting the UK? ,,,
 How do I find my SIM number or EID?,Y,How do I find my SIM number or EID?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1481779212/How-do-I-find-my-SIM-number-or-EID.htm
 Where do I find my SIM number,Y,How do I find my SIM number or EID?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1481779212/How-do-I-find-my-SIM-number-or-EID.htm
 Where do I find my EID,Y,How do I find my SIM number or EID?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1481779212/How-do-I-find-my-SIM-number-or-EID.htm
@@ -302,9 +302,9 @@ Where's my EID number,Y,How do I find my SIM number or EID?,,,https://support.vo
 Where's my SIM card number,Y,How do I find my SIM number or EID?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1481779212/How-do-I-find-my-SIM-number-or-EID.htm
 I need to find my EID,Y,How do I find my SIM number or EID?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1481779212/How-do-I-find-my-SIM-number-or-EID.htm
 Can you tell me where my EID number would be,Y,How do I find my SIM number or EID?,,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1481779212/How-do-I-find-my-SIM-number-or-EID.htm
-Get EID number,Y,"I want to get an eSIM, but I can’t get a confirmation code to log in",,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526155072/I-want-to-get-an-eSIM-but-I-can-t-get-a-confirmation-code-to-log-in.htm
-Get the number on my SIM card,Y,"I don’t have a SIM card, can I still move to eSIM?",,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526155172/I-don-t-have-a-SIM-card-can-I-still-move-to-eSIM.htm
-,N,"How much will it cost to use my phone on a plane, cruise ship or ferry? ",Assistant journey ,,
+Get EID number,Y,"I want to get an eSIM, but I canï¿½t get a confirmation code to log in",,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526155072/I-want-to-get-an-eSIM-but-I-can-t-get-a-confirmation-code-to-log-in.htm
+Get the number on my SIM card,Y,"I donï¿½t have a SIM card, can I still move to eSIM?",,,https://support.vodafone.co.uk/SIM-eSIM/eSIM/1526155172/I-don-t-have-a-SIM-card-can-I-still-move-to-eSIM.htm
+,N,"How much will it cost to use my phone on a plane, cruise ship or ferry? ",,,
 How do I change the length of time before a call goes to voicemail?,Y,How do I change the length of time before a call goes to voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047832/How-do-I-change-the-length-of-time-before-a-call-goes-to-voicemail.htm
 Can I change how long my phone rings before it goes to voicemail,Y,How do I change the length of time before a call goes to voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047832/How-do-I-change-the-length-of-time-before-a-call-goes-to-voicemail.htm
 change how long my mobile is set to ring before going to voicemail,Y,How do I change the length of time before a call goes to voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047832/How-do-I-change-the-length-of-time-before-a-call-goes-to-voicemail.htm
@@ -318,8 +318,8 @@ What's the process for adjusting the time before calls divert to voicemail,Y,How
 Can I increase the time before calls are routed to voicemail,Y,How do I change the length of time before a call goes to voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047832/How-do-I-change-the-length-of-time-before-a-call-goes-to-voicemail.htm
 How do I customize the delay before calls are sent to voicemail,Y,How do I change the length of time before a call goes to voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047832/How-do-I-change-the-length-of-time-before-a-call-goes-to-voicemail.htm
 What steps do I take to adjust the length of time before calls go to voicemail,Y,How do I change the length of time before a call goes to voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047832/How-do-I-change-the-length-of-time-before-a-call-goes-to-voicemail.htm
-,N,I’m moving home – what do I need to do?,Assistant journey ,,
-,N,My mobile device has no signal. What should I do? ,Assistant journey ,,
+,N,Iï¿½m moving home ï¿½ what do I need to do?,,,
+,N,My mobile device has no signal. What should I do? ,,,
 Can I get visual voicemail,Y,Can I get Visual Voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1544815672/Can-I-get-Visual-Voicemail.htm
 Is Visual Voicemail an option for me,Y,Can I get Visual Voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1544815672/Can-I-get-Visual-Voicemail.htm
 Could I activate Visual Voicemail,Y,Can I get Visual Voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1544815672/Can-I-get-Visual-Voicemail.htm
@@ -333,21 +333,21 @@ Could you help me activate Visual Voicemail,Y,Can I get Visual Voicemail?,,,http
 Is there a way to use Visual Voicemail,Y,Can I get Visual Voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1544815672/Can-I-get-Visual-Voicemail.htm
 Can I enable Visual Voicemail on my device,Y,Can I get Visual Voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1544815672/Can-I-get-Visual-Voicemail.htm
 How can I get Visual Voicemail,Y,Can I get Visual Voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1544815672/Can-I-get-Visual-Voicemail.htm
-,N,My mobile can't connect to the internet,Assistant journey ,,
-,N,I’ve got a problem with coverage,Assistant journey ,,
-I’m having issues connecting my Super WiFi Booster,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-I'm experiencing difficulties with linking my Super WiFi Booster.,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-Can you assist me with connecting my Super WiFi Booster,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-I'm having trouble getting my Super WiFi Booster to connect properly.,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-Is there a solution for the problems I'm having with my Super WiFi Booster connection,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-Could you help me troubleshoot the connection problems with my Super WiFi Booster,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-My Super WiFi Booster isn't connecting as expected,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-I'm running into issues while trying to connect my Super WiFi Booster.,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-Can you guide me through the process of troubleshooting my Super WiFi Booster connection issues?,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-I'm having trouble establishing a connection with my Super WiFi Booster.,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-Help with getting my super wifi booster connected,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-Im having trouble getting my Super WiFi booster working,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
-Struggling to get my wifi booster connected,Y,I’m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+,N,My mobile can't connect to the internet,,,
+,N,Iï¿½ve got a problem with coverage,,,
+Iï¿½m having issues connecting my Super WiFi Booster,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+I'm experiencing difficulties with linking my Super WiFi Booster.,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+Can you assist me with connecting my Super WiFi Booster,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+I'm having trouble getting my Super WiFi Booster to connect properly.,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+Is there a solution for the problems I'm having with my Super WiFi Booster connection,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+Could you help me troubleshoot the connection problems with my Super WiFi Booster,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+My Super WiFi Booster isn't connecting as expected,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+I'm running into issues while trying to connect my Super WiFi Booster.,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+Can you guide me through the process of troubleshooting my Super WiFi Booster connection issues?,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+I'm having trouble establishing a connection with my Super WiFi Booster.,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+Help with getting my super wifi booster connected,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+Im having trouble getting my Super WiFi booster working,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
+Struggling to get my wifi booster connected,Y,Iï¿½m having issues connecting my Super WiFi Booster,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1627646512/I-m-having-issues-connecting-my-Super-WiFi-Booster.htm
 Can I get mobile network status alerts?,Y,Can I get mobile network status alerts?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1485042602/Can-I-get-mobile-network-status-alerts.htm
 Is it possible for me to receive alerts about my mobile network status,Y,Can I get mobile network status alerts?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1485042602/Can-I-get-mobile-network-status-alerts.htm
 Can I sign up to receive notifications regarding mobile network outages,Y,Can I get mobile network status alerts?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1485042602/Can-I-get-mobile-network-status-alerts.htm
@@ -361,20 +361,20 @@ Can I sign up for network status alerts,Y,Can I get mobile network status alerts
 Can I get network alerts about outages and things,Y,Can I get mobile network status alerts?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1485042602/Can-I-get-mobile-network-status-alerts.htm
 Is there a way for me to receive alerts if there are issues with my mobile network?,Y,Can I get mobile network status alerts?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1485042602/Can-I-get-mobile-network-status-alerts.htm
 Can I get text alert about my mobile network status,Y,Can I get mobile network status alerts?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1485042602/Can-I-get-mobile-network-status-alerts.htm
-,N,How do I update my Direct Debit details?,Assistant journey ,,
-I’m having problems with my phone battery,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-My phone battery is causing me some trouble.,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-I'm encountering issues with the battery on my phone.,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-Can you assist me with the problems I'm having with my phone battery,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-Having issues with my phone battery,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-Phone battery isnt working properly ,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-Could you help me troubleshoot the problems with my phone battery,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-My phone battery wont hold its charge ,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-My phone battery isnt working right,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-I'm having trouble getting my phone battery to hold a charge.,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-Phone battery problems,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-Help with phone battery problems ,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
-My phone's battery is giving me trouble. Can you offer any advice?,Y,I’m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+,N,How do I update my Direct Debit details?,,,
+Iï¿½m having problems with my phone battery,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+My phone battery is causing me some trouble.,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+I'm encountering issues with the battery on my phone.,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+Can you assist me with the problems I'm having with my phone battery,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+Having issues with my phone battery,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+Phone battery isnt working properly ,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+Could you help me troubleshoot the problems with my phone battery,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+My phone battery wont hold its charge ,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+My phone battery isnt working right,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+I'm having trouble getting my phone battery to hold a charge.,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+Phone battery problems,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+Help with phone battery problems ,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
+My phone's battery is giving me trouble. Can you offer any advice?,Y,Iï¿½m having problems with my phone battery,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797092/I-m-having-problems-with-my-phone-battery.htm
 How do I stop nuisance calls or spam texts?,Y,How do I stop nuisance calls or spam texts?,,,https://support.vodafone.co.uk/Account/Security-privacy/1456919082/How-do-I-stop-nuisance-calls-or-spam-texts.htm
 What steps can I take to prevent nuisance calls or spam texts?,Y,How do I stop nuisance calls or spam texts?,,,https://support.vodafone.co.uk/Account/Security-privacy/1456919082/How-do-I-stop-nuisance-calls-or-spam-texts.htm
 How do I block unwanted calls or spam texts?,Y,How do I stop nuisance calls or spam texts?,,,https://support.vodafone.co.uk/Account/Security-privacy/1456919082/How-do-I-stop-nuisance-calls-or-spam-texts.htm
@@ -388,7 +388,7 @@ Can I block nuisance calls,Y,How do I stop nuisance calls or spam texts?,,,https
 What options do I have for dealing with nuisance calls or spam texts,Y,How do I stop nuisance calls or spam texts?,,,https://support.vodafone.co.uk/Account/Security-privacy/1456919082/How-do-I-stop-nuisance-calls-or-spam-texts.htm
 How can I reduce the number of nuisance calls or spam texts I receive,Y,How do I stop nuisance calls or spam texts?,,,https://support.vodafone.co.uk/Account/Security-privacy/1456919082/How-do-I-stop-nuisance-calls-or-spam-texts.htm
 How do I stop getting spam texts,Y,How do I stop nuisance calls or spam texts?,,,https://support.vodafone.co.uk/Account/Security-privacy/1456919082/How-do-I-stop-nuisance-calls-or-spam-texts.htm
-,N,How do I change my age-restricted content settings?,Assistant journey ,,
+,N,How do I change my age-restricted content settings?,,,
 How can I track my repair?,Y,How can I track my repair?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014432/How-can-I-track-my-repair.htm
 Where can I track my repair,Y,How can I track my repair?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014432/How-can-I-track-my-repair.htm
 Whats the status of my repair ,Y,How can I track my repair?,,,https://support.vodafone.co.uk/Phones-devices/Warranty-insurance-repair/1464014432/How-can-I-track-my-repair.htm
@@ -414,7 +414,7 @@ Has 3G been turned off now,Y,How can I find out about the 3G switch-off??,,,http
 Find out about the 3G switch-off,Y,How can I find out about the 3G switch-off??,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1769995462/How-can-I-find-out-about-the-3G-switch-off.htm
 Whats the 3G switch off,Y,How can I find out about the 3G switch-off??,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1769995462/How-can-I-find-out-about-the-3G-switch-off.htm
 When will 3G be turned off completely ,Y,How can I find out about the 3G switch-off??,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1769995462/How-can-I-find-out-about-the-3G-switch-off.htm
-,N,Why haven't I received my refund yet?,Assistant journey ,,
+,N,Why haven't I received my refund yet?,,,
 Can I get a discount? ,Y,Can I get a discount? ,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888672/Can-I-get-a-discount.htm
 Am I eligable for discounts,Y,Can I get a discount? ,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888672/Can-I-get-a-discount.htm
 Can I get any discount ,Y,Can I get a discount? ,,,https://support.vodafone.co.uk/Account/Discounts-VeryMe-Rewards/1456888672/Can-I-get-a-discount.htm
@@ -440,19 +440,19 @@ Can I arrange for my order to be held at a Vodafone store for pickup,Y,Can I col
 Can I collect my phone from the vodafone shop in town,Y,Can I collect my order from a Vodafone store?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1456910822/Can-I-collect-my-order-from-a-Vodafone-store.htm
 Can I pick up my order from a vodafone shop,Y,Can I collect my order from a Vodafone store?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1456910822/Can-I-collect-my-order-from-a-Vodafone-store.htm
 Can I collect my phone from a store instead,Y,Can I collect my order from a Vodafone store?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1456910822/Can-I-collect-my-order-from-a-Vodafone-store.htm
-What’s Guest WiFi and how can I manage it?,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-How do I manage guest Wifi,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-How do I set up guest wifi on my router,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-Managing guest wifi,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-What is guest wifi,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-Help with guest wifi,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-What does guest wifi mean ,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-Setting up guest wifi,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-Set up a seperate wifi for my guests to use ,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-How do I activate guest wifi,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-Get help setting up a guest wifi account ,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-What does guest wifi do,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
-How can I manage my guest wifi ,Y,What’s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+Whatï¿½s Guest WiFi and how can I manage it?,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+How do I manage guest Wifi,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+How do I set up guest wifi on my router,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+Managing guest wifi,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+What is guest wifi,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+Help with guest wifi,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+What does guest wifi mean ,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+Setting up guest wifi,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+Set up a seperate wifi for my guests to use ,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+How do I activate guest wifi,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+Get help setting up a guest wifi account ,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+What does guest wifi do,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
+How can I manage my guest wifi ,Y,Whatï¿½s Guest WiFi and how can I manage it?,,,https://support.vodafone.co.uk/Broadband/Security-controls-Home-Broadband-/1464003582/What-s-Guest-WiFi-and-how-can-I-manage-it.htm
 How does WiFi compatibility mode work? ,N,How does WiFi compatibility mode work? ,,,
 How do I use compatibility mode,N,How does WiFi compatibility mode work? ,,,
 How do I set up compatibility mode on the broadband app,N,How does WiFi compatibility mode work? ,,,
@@ -466,9 +466,9 @@ Help setting up wifi compatibility,N,How does WiFi compatibility mode work? ,,,
 Wifi compatibility mode ,N,How does WiFi compatibility mode work? ,,,
 How do I set up wifi compatibility,N,How does WiFi compatibility mode work? ,,,
 How to use compatibility moce ,N,How does WiFi compatibility mode work? ,,,
-manage vodafone router setting,Y,How do I manage my Vodafone router settings?,How do I manage my Vodafone router settings?,Y,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
-How do I change Vodafone router settings,Y,How do I manage my Vodafone router settings?,How do I reset the password on my router?,Y,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
-Can I manage my router from the app?,Y,How do I manage my Vodafone router settings?,How do I manage my Vodafone router settings?,Y,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
+manage vodafone router setting,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
+How do I change Vodafone router settings,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
+Can I manage my router from the app?,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
 I need to change my router set up,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
 How can I change router settings,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
 advanced router settings,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
@@ -480,9 +480,9 @@ how do i access my router settings to configure the router,Y,How do I manage my 
 how do i change router settings in the app,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
 i need to access my broadband router setting,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
 how do i view my router settings?,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
-vodafone router settingsi tried to do router settings but i couldn’t connect,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
-,N,How do I buy extra minutes?,Assistant journey ,,
-,N,Where can I find my PUK code?,Assistant journey ,,
+vodafone router settingsi tried to do router settings but i couldnï¿½t connect,Y,How do I manage my Vodafone router settings?,,,https://support.vodafone.co.uk/Broadband/Broadband-app/1464003112/How-do-I-manage-my-Vodafone-router-settings.htm
+,N,How do I buy extra minutes?,,,
+,N,Where can I find my PUK code?,,,
 Switch off data,Y,How do I switch off data on my phone?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1464064382/How-do-I-switch-off-data-on-my-phone.htm
 How to turn off my data,Y,How do I switch off data on my phone?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1464064382/How-do-I-switch-off-data-on-my-phone.htm
 I want to turn off my data so it can't be used ,Y,How do I switch off data on my phone?,,,https://support.vodafone.co.uk/Phones-devices/Signal-data-connection/1464064382/How-do-I-switch-off-data-on-my-phone.htm
@@ -507,7 +507,7 @@ i want help with caller display on my home phone,Y,I want help with caller displ
 re-activate my caller display,Y,I want help with caller display on my Home phone,,,https://support.vodafone.co.uk/Broadband/Home-phone/1464003292/I-want-help-with-caller-display-on-my-Home-phone.htm
 caller display not active,Y,I want help with caller display on my Home phone,,,https://support.vodafone.co.uk/Broadband/Home-phone/1464003292/I-want-help-with-caller-display-on-my-Home-phone.htm
 How do i access caller display,Y,I want help with caller display on my Home phone,,,https://support.vodafone.co.uk/Broadband/Home-phone/1464003292/I-want-help-with-caller-display-on-my-Home-phone.htm
-,N,How do I set up my Vodafone Pro Broadband?,Assistant journey,,
+,N,How do I set up my Vodafone Pro Broadband?,,,
 Check speeds for my home broadband,Y,How do I check my Vodafone Broadband speed?,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1464004032/How-do-I-check-my-Vodafone-Broadband-speed.htm
 How do I see what speed I'm getting for broadband,Y,How do I check my Vodafone Broadband speed?,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1464004032/How-do-I-check-my-Vodafone-Broadband-speed.htm
 What is my broadband speed,Y,How do I check my Vodafone Broadband speed?,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1464004032/How-do-I-check-my-Vodafone-Broadband-speed.htm
@@ -559,7 +559,7 @@ conference call settings,Y,How do I set up conference calling?,,,https://support
 how can i enable call conference,Y,How do I set up conference calling?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1464038282/How-do-I-set-up-conference-calling.htm
 how can i do conference calls,Y,How do I set up conference calling?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1464038282/How-do-I-set-up-conference-calling.htm
 how can i start a conference call,Y,How do I set up conference calling?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1464038282/How-do-I-set-up-conference-calling.htm
-,N,I need help with my Norton antivirus protection,Remove,,
+,N,I need help with my Norton antivirus protection,,,
 data booster,Y,How do I use the Unlimited Data Booster on my Xtra Plan?,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682715772/How-do-I-use-the-Unlimited-Data-Booster-on-my-Xtra-Plan.htm
 turn on unlimited data booster,Y,How do I use the Unlimited Data Booster on my Xtra Plan?,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682715772/How-do-I-use-the-Unlimited-Data-Booster-on-my-Xtra-Plan.htm
 activation unlimited data booster,Y,How do I use the Unlimited Data Booster on my Xtra Plan?,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682715772/How-do-I-use-the-Unlimited-Data-Booster-on-my-Xtra-Plan.htm
@@ -597,7 +597,7 @@ connection to hotspot,Y,How do I set up a mobile hotspot on my device?,,,https:/
 enable hotspot,Y,How do I set up a mobile hotspot on my device?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906932/How-do-I-set-up-a-mobile-hotspot-on-my-device.htm
 i wanted to know if i could get mobile hotspot,Y,How do I set up a mobile hotspot on my device?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906932/How-do-I-set-up-a-mobile-hotspot-on-my-device.htm
 help with setting up mobil hotspot,Y,How do I set up a mobile hotspot on my device?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906932/How-do-I-set-up-a-mobile-hotspot-on-my-device.htm
- i can’t use my hotspot,Y,How do I set up a mobile hotspot on my device?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906932/How-do-I-set-up-a-mobile-hotspot-on-my-device.htm
+ i canï¿½t use my hotspot,Y,How do I set up a mobile hotspot on my device?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906932/How-do-I-set-up-a-mobile-hotspot-on-my-device.htm
 My number is moving to you tomorrow,Y,What happens on the day my number moves to Vodafone?,,,https://support.vodafone.co.uk/Joining-leaving/Joining-Vodafone/1450592312/What-happens-on-the-day-my-number-moves-to-Vodafone.htm
 what is going to happen when i move my number to vodafone,Y,What happens on the day my number moves to Vodafone?,,,https://support.vodafone.co.uk/Joining-leaving/Joining-Vodafone/1450592312/What-happens-on-the-day-my-number-moves-to-Vodafone.htm
 What do I need to expect on the day my number moves to Vodafone,Y,What happens on the day my number moves to Vodafone?,,,https://support.vodafone.co.uk/Joining-leaving/Joining-Vodafone/1450592312/What-happens-on-the-day-my-number-moves-to-Vodafone.htm
@@ -633,7 +633,7 @@ I have nothing left on my big value bundle,Y,What happens when my Big Value Bund
 My big value bundle has ended early,Y,What happens when my Big Value Bundle runs out?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Big-Value-Bundles/1479616842/What-happens-when-my-Big-Value-Bundle-runs-out.htm
 My big value bundle is finished sooner than i expected ,Y,What happens when my Big Value Bundle runs out?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Big-Value-Bundles/1479616842/What-happens-when-my-Big-Value-Bundle-runs-out.htm
 Can i still make calls if my big bundle runs out,Y,What happens when my Big Value Bundle runs out?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Big-Value-Bundles/1479616842/What-happens-when-my-Big-Value-Bundle-runs-out.htm
-,N,UK emergency alerts,Remove,,
+,N,UK emergency alerts,,,
 Delivery options,Y,What are my delivery options?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1456912312/What-are-my-delivery-options.htm
 What delivery options you offer,Y,What are my delivery options?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1456912312/What-are-my-delivery-options.htm
 How can i get a phone delivered to me,Y,What are my delivery options?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1456912312/What-are-my-delivery-options.htm
@@ -658,7 +658,7 @@ How do I get Wifi calling turned on ,Y,How do I set up WiFi Calling?,,,https://s
 Turn on WiFi Calling ,Y,How do I set up WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038322/How-do-I-set-up-WiFi-Calling.htm
 Turning on WiFi Calling on my phone ,Y,How do I set up WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038322/How-do-I-set-up-WiFi-Calling.htm
 Steps to set up WiFi Calling,Y,How do I set up WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038322/How-do-I-set-up-WiFi-Calling.htm
-,N,How do I change my account login details or password?,Assistant journey ,,
+,N,How do I change my account login details or password?,,,
 What is WiFi Calling?,Y,What is WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038362/What-is-WiFi-Calling.htm
 Whats wifi calling,Y,What is WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038362/What-is-WiFi-Calling.htm
 What does Wifi calling mean ,Y,What is WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038362/What-is-WiFi-Calling.htm
@@ -672,9 +672,9 @@ Explain what WiFi Calling is,Y,What is WiFi Calling?,,,https://support.vodafone.
 Tell me what WiFi Calling is ,Y,What is WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038362/What-is-WiFi-Calling.htm
 Can I use wifi calling for free,Y,What is WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038362/What-is-WiFi-Calling.htm
 What does wifi calling stand for,Y,What is WiFi Calling?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038362/What-is-WiFi-Calling.htm
-,N,I want to find out about Unlimited plans ,Assistant journey ,,
-,N,What's a SIM only deal?,Assistant journey ,,
-,N,What devices can I use my Entertainment Pack on?,Assistant journey ,,
+,N,I want to find out about Unlimited plans ,,,
+,N,What's a SIM only deal?,,,
+,N,What devices can I use my Entertainment Pack on?,,,
 Can I recover a deleted voicemail?,Y,Can I recover a deleted voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047952/Can-I-recover-a-deleted-voicemail.htm
 Is there anyway to get a deleted voicemail back,Y,Can I recover a deleted voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047952/Can-I-recover-a-deleted-voicemail.htm
 Can I get a deleted voicemail back,Y,Can I recover a deleted voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047952/Can-I-recover-a-deleted-voicemail.htm
@@ -688,7 +688,7 @@ Is there a way to get a deleted voicemail back,Y,Can I recover a deleted voicema
 Recover a deleted voicemail,Y,Can I recover a deleted voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047952/Can-I-recover-a-deleted-voicemail.htm
 Getting a deleted voicemail back,Y,Can I recover a deleted voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047952/Can-I-recover-a-deleted-voicemail.htm
 Recovering a deleted voicemail,Y,Can I recover a deleted voicemail?,,,https://support.vodafone.co.uk/Phones-devices/Voicemail/1464047952/Can-I-recover-a-deleted-voicemail.htm
-,N,What’s a Red Entertainment plan?,Assistant journey ,,
+,N,Whatï¿½s a Red Entertainment plan?,,,
 What permission level can I give someone when I add them to my account? ,N,What permission level can I give someone when I add them to my account? ,,,
 What permissions can I give if I add someone to my account,N,What permission level can I give someone when I add them to my account? ,,,
 What level permissions can I add someone to my account with,N,What permission level can I give someone when I add them to my account? ,,,
@@ -701,9 +701,9 @@ Adding someone to my account and need to give them permissions,N,What permission
 What different permission levels are there ,N,What permission level can I give someone when I add them to my account? ,,,
 Can I give lower permission levels to someone on my account,N,What permission level can I give someone when I add them to my account? ,,,
 What permissions levels can I give to someone,N,What permission level can I give someone when I add them to my account? ,,,
-,N,What is Vodafone Secure Net?,Remove,,
-,N,Can I use my Entertainment Pack abroad?,Assistant journey,,
-,N,How do I change my PIN?,Assistant journey,,
+,N,What is Vodafone Secure Net?,,,
+,N,Can I use my Entertainment Pack abroad?,,,
+,N,How do I change my PIN?,,,
 How do I manage call diverts?,Y,How do I manage call diverts?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038212/How-do-I-manage-call-diverts.htm
 Can I set up call diverts,Y,How do I manage call diverts?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038212/How-do-I-manage-call-diverts.htm
 Managing call diverts ,Y,How do I manage call diverts?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038212/How-do-I-manage-call-diverts.htm
@@ -716,8 +716,8 @@ Managing call divert features ,Y,How do I manage call diverts?,,,https://support
 Could you guide me through setting up call forwarding,Y,How do I manage call diverts?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038212/How-do-I-manage-call-diverts.htm
 How do I control where my calls are forwarded to,Y,How do I manage call diverts?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038212/How-do-I-manage-call-diverts.htm
 Can you explain how to configure call forwarding,Y,How do I manage call diverts?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038212/How-do-I-manage-call-diverts.htm
-,N,How do I set up or remove a data cap?,Assistant journey ,,
-,N,How do I turn WiFi on or off?,Assistant journey ,,
+,N,How do I set up or remove a data cap?,,,
+,N,How do I turn WiFi on or off?,,,
 ,N,How do I set up and manage my voicemail?,,,
 What is voxi,Y,I want to find help or information about VOXI,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618492/I-want-to-find-help-or-information-about-VOXI.htm
 Can I get more information about voxi,Y,I want to find help or information about VOXI,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618492/I-want-to-find-help-or-information-about-VOXI.htm
@@ -745,12 +745,12 @@ Can you help with what issue the flashing light on my router means,Y,What do the
 "My router is flashing blue, what does this mean",Y,What do the lights mean on my router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643213892/What-do-the-lights-mean-on-my-router.htm
 "if my router is flashing, how do I know what the lights mean",Y,What do the lights mean on my router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643213892/What-do-the-lights-mean-on-my-router.htm
 I'm getting flashing lights on the router but not sure what they mean,Y,What do the lights mean on my router?,,,https://support.vodafone.co.uk/Broadband/Set-up-getting-started-Home-Broadband-/1643213892/What-do-the-lights-mean-on-my-router.htm
-,N,Why is my broadband being upgraded to full fibre? ,Broken discovery link,,
+,N,Why is my broadband being upgraded to full fibre? ,,,
 How do i request proof of purchase,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 How do I get a proof of purchase,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 Need proof of purchase to claim a gift how do I get it ,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 can you help me get a proof of purchase please,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
-I’m looking to have proof of purchase emailed to me ,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
+Iï¿½m looking to have proof of purchase emailed to me ,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 i need a proof of purchase of my device,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 i need a proof of purchase receipt email,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 I need a proof of purchase how do i get that,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
@@ -761,7 +761,7 @@ I need copy of the proof of purchase for my device,Y,How do I get proof of purch
 I need proof of purchase with details of phone for insurance,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 I need someone to check my account so i can have a proof of purchase,Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
 "	i need the proof of purchase certificate",Y,How do I get proof of purchase?,,,https://support.vodafone.co.uk/Joining-leaving/Order-delivery/1464028632/How-do-I-get-proof-of-purchase.htm
-,N,Why has my Pay as you go credit run out?,Assistant journey,,
+,N,Why has my Pay as you go credit run out?,,,
 Why am I seeing the wrong number when using iMessage or FaceTime?,Y,Why am I seeing the wrong number when using iMessage or FaceTime?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038822/Why-am-I-seeing-the-wrong-number-when-using-iMessage-or-FaceTime.htm
 Why am I seeing the wrong number when using iMessage ,Y,Why am I seeing the wrong number when using iMessage or FaceTime?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038822/Why-am-I-seeing-the-wrong-number-when-using-iMessage-or-FaceTime.htm
 Why am I seeing the wrong number when using Facetime,Y,Why am I seeing the wrong number when using iMessage or FaceTime?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038822/Why-am-I-seeing-the-wrong-number-when-using-iMessage-or-FaceTime.htm
@@ -775,15 +775,15 @@ When I send a message on imessage it's going through from a different number,Y,W
 I called my friend on facetime and it came up on her phone with the wrong number,Y,Why am I seeing the wrong number when using iMessage or FaceTime?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038822/Why-am-I-seeing-the-wrong-number-when-using-iMessage-or-FaceTime.htm
 It's not the right number showing when i'm using facetime,Y,Why am I seeing the wrong number when using iMessage or FaceTime?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038822/Why-am-I-seeing-the-wrong-number-when-using-iMessage-or-FaceTime.htm
 Not showing the right number when sending imessages,Y,Why am I seeing the wrong number when using iMessage or FaceTime?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038822/Why-am-I-seeing-the-wrong-number-when-using-iMessage-or-FaceTime.htm
-,N,What size SIM card do I need? ,Assistant journey,,
-,N,What are VeryMe Rewards and how do they work?,Duplicate,,
-,N,Who can share their plan across devices?,Remove,,
-,N,What is Vodafone Sure Signal?,Remove,,
-,N,How does the Home Broadband price freeze work?,Remove,,
-,N,What is Superfast Extra?,Remove,,
-,N,Where are the guides and FAQs for my phone?,Assistant journey,,
-,N,What should I do if I have broadband problems? ,Assistant journey,,
-,N,How can I check my network coverage and status?,Assistant journey,,
+,N,What size SIM card do I need? ,,,
+,N,What are VeryMe Rewards and how do they work?,,,
+,N,Who can share their plan across devices?,,,
+,N,What is Vodafone Sure Signal?,,,
+,N,How does the Home Broadband price freeze work?,,,
+,N,What is Superfast Extra?,,,
+,N,Where are the guides and FAQs for my phone?,,,
+,N,What should I do if I have broadband problems? ,,,
+,N,How can I check my network coverage and status?,,,
 What's the difference between internet sync speed and download speed?,Y,What's the difference between internet sync speed and download speed?,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1733851192/What-s-the-difference-between-internet-sync-speed-and-download-speed.htm
 I don't understand the difference between internet sync speed and download speed,Y,What's the difference between internet sync speed and download speed?,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1733851192/What-s-the-difference-between-internet-sync-speed-and-download-speed.htm
 Can you please explain the difference between internet sync speed and download speed,Y,What's the difference between internet sync speed and download speed?,,,https://support.vodafone.co.uk/Broadband/Speed-connection-issues/1733851192/What-s-the-difference-between-internet-sync-speed-and-download-speed.htm
@@ -810,9 +810,9 @@ What's 4G calling mean,Y,What is 4G Calling (VoLTE)? ,,,https://support.vodafone
 Can you walk me through 4G calling,Y,What is 4G Calling (VoLTE)? ,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1708245032/What-is-4G-Calling-VoLTE.htm
 "I'm a bit confused about 4G voice calls, can you help me understand",Y,What is 4G Calling (VoLTE)? ,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1708245032/What-is-4G-Calling-VoLTE.htm
 What is 4G calling,Y,What is 4G Calling (VoLTE)? ,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1708245032/What-is-4G-Calling-VoLTE.htm
-,N,How do I get a Network Unlock Code (NUC)?,Assistant journey,,
-,N,What happens if I don’t use my PAC or STAC code?,Assistant journey,,
-,N,How do I change or renew my Big Value Bundle? ,Assistant journey,,
+,N,How do I get a Network Unlock Code (NUC)?,,,
+,N,What happens if I donï¿½t use my PAC or STAC code?,,,
+,N,How do I change or renew my Big Value Bundle? ,,,
 ,N,I need help with my Vodafone Smart Tech. Where can I find support? ,,,
 ,N,I want to find out about Vodafone IOU,,,
 what is included with vodafone international,Y,Where can I call with Vodafone International?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464047502/Where-can-I-call-with-Vodafone-International.htm
@@ -861,7 +861,7 @@ I can't hide my phone number,Y,How do I hide my own telephone number when I make
 I need to make unknown calls,Y,How do I hide my own telephone number when I make calls?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038332/How-do-I-hide-my-own-telephone-number-when-I-make-calls.htm
 could you tell me how to hide my mobile number please,Y,How do I hide my own telephone number when I make calls?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038332/How-do-I-hide-my-own-telephone-number-when-I-make-calls.htm
 I don't want the other person see my mobile number when i call them,Y,How do I hide my own telephone number when I make calls?,,,https://support.vodafone.co.uk/Phones-devices/Calling-messaging/1464038332/How-do-I-hide-my-own-telephone-number-when-I-make-calls.htm
-,N,I’d like to share my data allowance with another plan,Remove,,
+,N,Iï¿½d like to share my data allowance with another plan,,,
 what is device care,Y,What is Device Care and how can I book an appointment?,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797142/What-is-Device-Care-and-how-can-I-book-an-appointment.htm
 "i currently have device care in my plan, what does this give me?",Y,What is Device Care and how can I book an appointment?,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797142/What-is-Device-Care-and-how-can-I-book-an-appointment.htm
  what is device care included in the plan,Y,What is Device Care and how can I book an appointment?,,,https://support.vodafone.co.uk/Pay-monthly/EVO-plans/1682797142/What-is-Device-Care-and-how-can-I-book-an-appointment.htm
@@ -892,8 +892,8 @@ What's my contact number,Y,What's my phone number?,,,https://support.vodafone.co
 What is my cell number,Y,What's my phone number?,,,https://support.vodafone.co.uk/Account/My-details/1456844352/What-s-my-phone-number.htm
 What's my mobile phone number,Y,What's my phone number?,,,https://support.vodafone.co.uk/Account/My-details/1456844352/What-s-my-phone-number.htm
 can i please have my new mobile number confirmed ,Y,What's my phone number?,,,https://support.vodafone.co.uk/Account/My-details/1456844352/What-s-my-phone-number.htm
-,N,How do I cancel a paid subscription to an Entertainment Pack?,Assistant journey,,
-,N,How do I get and activate my Entertainment pack?,Assistant journey,,
+,N,How do I cancel a paid subscription to an Entertainment Pack?,,,
+,N,How do I get and activate my Entertainment pack?,,,
 I need to tranfer my data to new device,Y,How do I transfer content from one phone to another?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906882/How-do-I-transfer-content-from-one-phone-to-another.htm
 How do I tranfer my pictures to my new phone,Y,How do I transfer content from one phone to another?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906882/How-do-I-transfer-content-from-one-phone-to-another.htm
 I got a new phone and like to keep all my old files,Y,How do I transfer content from one phone to another?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906882/How-do-I-transfer-content-from-one-phone-to-another.htm
@@ -906,8 +906,8 @@ can i keep all my data and files on this new phone,Y,How do I transfer content f
 Transfer files to new phone,Y,How do I transfer content from one phone to another?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906882/How-do-I-transfer-content-from-one-phone-to-another.htm
 Bring my pictures to new device,Y,How do I transfer content from one phone to another?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906882/How-do-I-transfer-content-from-one-phone-to-another.htm
 Got a a new phone and like to transfer my old files,Y,How do I transfer content from one phone to another?,,,https://support.vodafone.co.uk/Phones-devices/Device-help/1456906882/How-do-I-transfer-content-from-one-phone-to-another.htm
-,N,I’d like to upgrade to Spotify Family,Assistant journey,,
-,N,How do I call someone using Alexa?,Remove,,
+,N,Iï¿½d like to upgrade to Spotify Family,,,
+,N,How do I call someone using Alexa?,,,
 What is payg 1,Y,Where can I find more information about Pay as you go 1?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618552/Where-can-I-find-more-information-about-Pay-as-you-go-1.htm
 pay as you go one,Y,Where can I find more information about Pay as you go 1?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618552/Where-can-I-find-more-information-about-Pay-as-you-go-1.htm
 I want to get pay as you go 1 with you,Y,Where can I find more information about Pay as you go 1?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618552/Where-can-I-find-more-information-about-Pay-as-you-go-1.htm
@@ -920,7 +920,7 @@ How many minutes I get with pay as you go 1 plan,Y,Where can I find more informa
 How many texts included with pay as you go one ,Y,Where can I find more information about Pay as you go 1?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618552/Where-can-I-find-more-information-about-Pay-as-you-go-1.htm
 How much is a pay as you go 1 plan,Y,Where can I find more information about Pay as you go 1?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618552/Where-can-I-find-more-information-about-Pay-as-you-go-1.htm
 Do I pay a fee for pay as you go 1,Y,Where can I find more information about Pay as you go 1?,,,https://support.vodafone.co.uk/Pay-as-you-go-Pay-as-you-go-Plus/Pay-as-you-go/Understanding-Pay-as-you-go-/1479618552/Where-can-I-find-more-information-about-Pay-as-you-go-1.htm
-,N,The device I ordered is out of stock,Assistant journey,,
+,N,The device I ordered is out of stock,,,
 What is my imei,Y,How do I get my IMEI number?,,,https://support.vodafone.co.uk/Phones-devices/Unlocking-a-device/1464014902/How-do-I-get-my-IMEI-number.htm
 how do i find my imei number,Y,How do I get my IMEI number?,,,https://support.vodafone.co.uk/Phones-devices/Unlocking-a-device/1464014902/How-do-I-get-my-IMEI-number.htm
 IMEI number confirmation,Y,How do I get my IMEI number?,,,https://support.vodafone.co.uk/Phones-devices/Unlocking-a-device/1464014902/How-do-I-get-my-IMEI-number.htm
@@ -940,9 +940,9 @@ is 5g faster than 4G ,Y,What is 5G?,,,https://support.vodafone.co.uk/Phones-devi
 do I have 5G available to me,Y,What is 5G?,,,https://support.vodafone.co.uk/Phones-devices/5G/1464009912/What-is-5G.htm
 "I can see 5G on my phone, what is it?",Y,What is 5G?,,,https://support.vodafone.co.uk/Phones-devices/5G/1464009912/What-is-5G.htm
 Can you explain what 5G is?,Y,What is 5G?,,,https://support.vodafone.co.uk/Phones-devices/5G/1464009912/What-is-5G.htm
-,N,What is Total Rollover on Big Value Bundles?,Remove,,
-,N,Can I transfer credit to a different number?,Remove,,
-,N,How long will my Entertainment Pack subscription last and what happens when it ends?,Assistant journey,,
+,N,What is Total Rollover on Big Value Bundles?,,,
+,N,Can I transfer credit to a different number?,,,
+,N,How long will my Entertainment Pack subscription last and what happens when it ends?,,,
 How much to use the vodafone app,Y,Is the My Vodafone app free to use?,,,https://support.vodafone.co.uk/Phones-devices/My-Vodafone-app/1464010002/Is-the-My-Vodafone-app-free-to-use.htm
 Can i use my vodafone app for free,Y,Is the My Vodafone app free to use?,,,https://support.vodafone.co.uk/Phones-devices/My-Vodafone-app/1464010002/Is-the-My-Vodafone-app-free-to-use.htm
 Does it cost to use your app,Y,Is the My Vodafone app free to use?,,,https://support.vodafone.co.uk/Phones-devices/My-Vodafone-app/1464010002/Is-the-My-Vodafone-app-free-to-use.htm
